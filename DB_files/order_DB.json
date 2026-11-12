@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Testing printing order",
+        "description": "This order is just for testing purposes",
+        "duration": 20,
+        "status": "DONE",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "37de13f1c7e94ce783277ba684676919"
+    },
+    {
+        "name": "chess piece",
+        "description": "Printing Rook chess piece",
+        "duration": 10,
+        "status": "DONE",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "b75bde2f89d94d6bad8fa3af2c3a4047"
+    },
+    {
+        "name": "Pen holder",
+        "description": "Printing a small sized pen holder",
+        "duration": 40,
+        "status": "DONE",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "ccfc02e5cc64434cac2b213575c742e4"
+    },
+    {
+        "name": "Tag cover",
+        "description": "Printing a medium sized tag cover in blue",
+        "duration": 60,
+        "status": "OPEN",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "e3f961dcc387492ebe07a282e79a1578"
+    },
+    {
+        "name": "3d model",
+        "description": "printing a medium sized 3d figurine",
+        "duration": 120,
+        "status": "DONE",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "bcba77769f9a4331a2af04ced17c7759"
+    },
+    {
+        "name": "knife model",
+        "description": "creating a small sized carambit",
+        "duration": 50,
+        "status": "OPEN",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "7368b293a99e407892dd9b003c6df447"
+    },
+    {
+        "name": "chess piece",
+        "description": "printing a medium sized pawn",
+        "duration": 12,
+        "status": "DONE",
+        "user_uid": "9a9cd08add3c4975a343e13fdf04d642",
+        "order_id": "1ae99330f10747379aa36519cf4885ae"
+    }
+]
